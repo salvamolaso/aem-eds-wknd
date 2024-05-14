@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/aem-eds-wknd/:/",
+    "/content/aem-eds-wknd/metadata.json:/metadata.json",
+    "/content/aem-eds-wknd/redirects.json:/redirects.json",
+    "/content/aem-eds-wknd/configuration.json:/configuration.json"
   ]
 }
